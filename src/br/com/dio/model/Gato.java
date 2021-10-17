@@ -52,7 +52,7 @@ public class Gato {
         return "Gato {" +
                 "nome = '" + nome + '\'' +
                 ", cor = '" + cor + '\'' +
-                ", idade = " + idade + " anos"+
+                ", idade = " + idade + " anos" +
                 '}';
     }
 }
